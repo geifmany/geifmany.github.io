@@ -1,3 +1,8 @@
+---
+title:  "Yonatan Geifman"
+excerpt: "Graduate student at technion, Machine Learning researcher"
+---
+
 # About Me #
 I am a graduate student at the Computer Science Department at the Technion, Israel Institute of Technology. My research centers around the uncertainty of machine learning algorithms and exposes me to the limitations of machines as agents of knowledge and intelligence. My aim is to enhance the reliability of prediction by developing methods for self-aware machine learning.
 
