@@ -3,9 +3,9 @@ I am a graduate student at the Computer Science Department at the Technion, Isra
 
 # Under Review #
 Ran El-Yaniv, Yonatan Geifman, Yair Wiener - The Prediction Advantage: A Universally Meaningful Performance Measure for Classification and Regression.
-[Arxiv](https://arxiv.org/abs/1705.08499), [Slides]
+[arXiv](https://arxiv.org/abs/1705.08499), [Slides]
 
 Yonatan Geifman, Ran El-Yaniv - Selective Classification for Deep Neural Networks
-[Arxiv](https://arxiv.org/abs/1705.08500)
+[arXiv](https://arxiv.org/abs/1705.08500)
 
 
