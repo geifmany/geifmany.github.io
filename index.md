@@ -6,6 +6,6 @@ Ran El-Yaniv, Yonatan Geifman, Yair Wiener - The Prediction Advantage: A Univers
 [arXiv](https://arxiv.org/abs/1705.08499), [Slides]
 
 Yonatan Geifman, Ran El-Yaniv - Selective Classification for Deep Neural Networks
-[arXiv](https://arxiv.org/abs/1705.08500)
+[arXiv](https://arxiv.org/abs/1705.08500), [code](https://github.com/geifmany/selective_deep_learning)
 
 
