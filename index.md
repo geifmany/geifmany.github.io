@@ -1,6 +1,6 @@
 ---
 title:  "Yonatan Geifman"
-excerpt: "Graduate student at technion, Machine Learning researcher"
+excerpt: "Graduate student at Technion, Machine Learning researcher"
 ---
 
 # About Me #
@@ -10,8 +10,8 @@ I am a graduate student at the Computer Science Department at the Technion, Isra
 Ran El-Yaniv, Yonatan Geifman, Yair Wiener. The Prediction Advantage: A Universally Meaningful Performance Measure for Classification and Regression. - Submitted 2017.
 [arXiv](https://arxiv.org/abs/1705.08499), [Slides](https://geifmany.github.io/papers/prediction%20advantage/prediction%20advantage%20slides.pdf)
 
-Yonatan Geifman and Ran El-Yaniv. Selective Classification for Deep Neural Networks. In Advances in NeuralInformation Processing Systems, 2017.
-[arXiv](https://arxiv.org/abs/1705.08500), [code](https://github.com/geifmany/selective_deep_learning)
+Yonatan Geifman and Ran El-Yaniv. Selective Classification for Deep Neural Networks. In Advances in Neural Information Processing Systems, 2017.
+[arXiv](https://arxiv.org/abs/1705.08500), [code](https://github.com/geifmany/selective_deep_learning), [Slides](https://github.com/geifmany/geifmany.github.io/blob/master/papers/prediction%20advantage/Selective_slides.pdf)
 
 Yonatan Geifman and Ran El-Yaniv. Deep Active Learning over the Long Tail. - Submitted 2017.
 [arXiv](https://arxiv.org/abs/1711.00941)
