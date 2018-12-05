@@ -27,6 +27,13 @@ Yonatan Geifman and Ran El-Yaniv. Deep Active Learning with a Neural Architectur
 
 On the estimation and control of uncertainty in deep neural networks - Amazon (2018) - [slides](https://geifmany.github.io/papers/uncertainty.pdf)
 
+# Teaching #
+Winter 2018-2019 - [Deep Learning, 236606](https://webcourse.cs.technion.ac.il/236606/Winter2018-2019/), TA in charge
+Spring 2018 - [Deep Learning, 236606](https://webcourse.cs.technion.ac.il/236606/Spring2018), TA in charge
+Winter 2017-2018 - [Introduction to computer science with Matlab], TA in charge
+Spring 2017 - [Introduction to computer science], TA
+Winter 2016-2017 - [Intorudction to computer science with Matlab], TA
+
 # Contact #
 Feel free to contact me at yonatan.g at technion dot ac dot il
 
