@@ -40,5 +40,5 @@ Winter 2016-2017 - [Intorudction to computer science with Matlab], TA
 
 
 # Contact #
-Feel free to contact me at yonatan.g at technion dot ac dot il
+Feel free to contact me at yonatan.g at cs dot technion dot ac dot il
 
