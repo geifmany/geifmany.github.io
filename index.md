@@ -1,10 +1,10 @@
 ---
 title:  "Yonatan Geifman"
-excerpt: "PhD student at Technion, Deep Learning researcher"
+excerpt: "PhD candidate at Technion, Deep Learning researcher"
 ---
 
 # About Me #
-I am a PhD student at the Computer Science Department at the Technion, Israel Institute of Technology. My research centers around the uncertainty of machine learning algorithms and exposes me to the limitations of machines as agents of knowledge and intelligence. My aim is to enhance the reliability of prediction by developing methods for estimation and control of uncertainty in machine learning algorithms.
+I am a PhD candidate at the Computer Science Department at the Technion, Israel Institute of Technology. My research centers around the uncertainty of machine learning algorithms and exposes me to the limitations of machines as agents of knowledge and intelligence. My aim is to enhance the reliability of prediction by developing methods for estimation and control of uncertainty in machine learning algorithms.
 
 # Recent Work #
 Ran El-Yaniv, Yonatan Geifman, Yair Wiener. The Prediction Advantage: A Universally Meaningful Performance Measure for Classification and Regression - preprint
@@ -16,11 +16,14 @@ Yonatan Geifman and Ran El-Yaniv. Selective Classification for Deep Neural Netwo
 Yonatan Geifman and Ran El-Yaniv. Deep Active Learning over the Long Tail - preprint
 [arXiv](https://arxiv.org/abs/1711.00941)
 
-Yonatan Geifman, Guy Uziel, Ran El-Yaniv. Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers - preprint
-[arXiv](https://arxiv.org/abs/1805.08206)
+Yonatan Geifman, Guy Uziel, Ran El-Yaniv. Bias-Reduced Uncertainty Estimation for Deep Neural Classifiers - ICLR 2019
+[arXiv](https://arxiv.org/abs/1805.08206), [code](https://github.com/geifmany/uncertainty_ICLR)
 
 Yonatan Geifman and Ran El-Yaniv. Deep Active Learning with a Neural Architecture Search - preprint
 [arXiv](https://arxiv.org/abs/1811.07579)
+
+Yonatan Geifman and Ran El-Yaniv. SelectiveNet: A Deep Neural Network with an Integrated Reject Option - ICML 2019
+[arXiv](https://arxiv.org/abs/1901.09192) [code](https://github.com/geifmany/selectivenet)
 
 
 # Talks #
@@ -37,6 +40,10 @@ Winter 2017-2018 - [Introduction to computer science with Matlab], TA in charge
 Spring 2017 - [Introduction to computer science], TA
 
 Winter 2016-2017 - [Intorudction to computer science with Matlab], TA
+
+# Experience #
+Summer 2018 - Intern at Google AI (Mountain view) - Machine perception team - [Morphnet](https://ai.googleblog.com/2019/04/morphnet-towards-faster-and-smaller.html)
+
 
 
 # Contact #
