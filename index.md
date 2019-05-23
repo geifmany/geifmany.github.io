@@ -27,7 +27,7 @@ Yonatan Geifman and Ran El-Yaniv. SelectiveNet: A Deep Neural Network with an In
 
 
 # Talks #
-Uncertainty and its applications in deep neural networks - Trigo Vision meetup -[slides](https://github.com/geifmany/geifmany.github.io/blob/master/papers/uncertainty.pdf)
+Uncertainty and its applications in deep neural networks - Trigo Vision meetup -[slides](https://geifmany.github.io/papers/uncertainty.pdf)
 
 
 On the estimation and control of uncertainty in deep neural networks - Amazon (2018) - [slides](https://geifmany.github.io/papers/uncertainty.pdf)
