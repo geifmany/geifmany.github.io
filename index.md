@@ -27,6 +27,8 @@ Yonatan Geifman and Ran El-Yaniv. SelectiveNet: A Deep Neural Network with an In
 
 
 # Talks #
+SelectiveNet: A Deep Neural Network with an Integrated Reject Option - ICML 2019 - ICML oral presentation (2019) - [slides](https://geifmany.github.io/papers/ICML oral selectivenet_pdf.pdf)
+
 Uncertainty and its applications in deep neural networks - Trigo Vision meetup (2019) - [slides](https://geifmany.github.io/papers/selective_pdf.pdf)
 
 On the estimation and control of uncertainty in deep neural networks - Amazon (2018) - [slides](https://geifmany.github.io/papers/uncertainty.pdf)
