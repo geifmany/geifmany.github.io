@@ -4,7 +4,7 @@ excerpt: "PhD candidate at Technion, Deep Learning researcher"
 ---
 
 # About Me #
-I am a PhD candidate at the Computer Science Department at the Technion, Israel Institute of Technology. My research centers around the uncertainty of machine learning algorithms and exposes me to the limitations of machines as agents of knowledge and intelligence. My aim is to enhance the reliability of prediction by developing methods for estimation and control of uncertainty in machine learning algorithms.
+I am a PhD candidate at the Computer Science Department at the Technion, working under the supervision of Prof. Ran El-Yaniv. My research centers around the uncertainty of machine learning algorithms and exposes me to the limitations of machines as agents of knowledge and intelligence. My aim is to enhance the reliability of prediction by developing methods for estimation and control of uncertainty in machine learning algorithms.
 
 # Recent Work #
 Ran El-Yaniv, Yonatan Geifman, Yair Wiener. The Prediction Advantage: A Universally Meaningful Performance Measure for Classification and Regression - preprint
