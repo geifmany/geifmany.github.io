@@ -1,10 +1,10 @@
 ---
 title:  "Yonatan Geifman"
-excerpt: "PhD candidate at Technion, Deep Learning researcher"
+excerpt: "PhD, Deep Learning researcher"
 ---
 
 # About Me #
-I am a PhD candidate at the Computer Science Department at the Technion, working under the supervision of Prof. Ran El-Yaniv. My research centers around the uncertainty of machine learning algorithms and exposes me to the limitations of machines as agents of knowledge and intelligence. My aim is to enhance the reliability of prediction by developing methods for estimation and control of uncertainty in machine learning algorithms.
+I've completed my PhD at the Computer Science Department at the Technion, working under the supervision of Prof. Ran El-Yaniv. My research centers around the uncertainty of machine learning algorithms and exposes me to the limitations of machines as agents of knowledge and intelligence. My aim is to enhance the reliability of prediction by developing methods for estimation and control of uncertainty in machine learning algorithms.
 
 # Recent Work #
 Ran El-Yaniv, Yonatan Geifman, Yair Wiener. The Prediction Advantage: A Universally Meaningful Performance Measure for Classification and Regression - preprint
@@ -27,9 +27,11 @@ Yonatan Geifman and Ran El-Yaniv. SelectiveNet: A Deep Neural Network with an In
 
 
 # Talks #
-SelectiveNet: A Deep Neural Network with an Integrated Reject Option - ICML 2019 - ICML oral presentation (2019) - [slides](https://geifmany.github.io/papers/icml_oral.pdf)
+Uncertainty Estimation and its applications in deep neural networks - IBM research (August 2019) - [slides](https://geifmany.github.io/papers/Phd_talk.pdf)
 
-Uncertainty Estimation and its applications in deep neural networks - Phd seminar talk (2019) - [slides](https://geifmany.github.io/papers/Phd_talk.pdf)
+SelectiveNet: A Deep Neural Network with an Integrated Reject Option - ICML 2019 - ICML oral presentation (June 2019) - [slides](https://geifmany.github.io/papers/icml_oral.pdf)
+
+Uncertainty Estimation and its applications in deep neural networks - Phd seminar talk (June 2019) - [slides](https://geifmany.github.io/papers/Phd_talk.pdf)
 
 Uncertainty and its applications in deep neural networks - Trigo Vision meetup (2019) - [slides](https://geifmany.github.io/papers/selective_pdf.pdf)
 
